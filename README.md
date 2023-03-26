@@ -10,6 +10,4 @@ A Telegram bot to Download and Convert m3u Links to VIDEO
 - `IPTV_LINK` The URL which contains data for IPTV
 
 ---
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/sbMvag?referralCode=YdIPoB)
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/u26YQf?referralCode=YdIPoB)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/C8NM71?referralCode=YdIPoB)
