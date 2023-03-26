@@ -2,8 +2,8 @@ from pyrogram import Client, filters
 from utils import check_user, multi_rec, getChannels
 
 app = Client(
-    "Free_De_La_Hoya_File_Store_Bot",
-    bot_token = "6071900774:AAEkinCKlZ1bylyE9aqfZX1i-LqCJ2NNd_g",
+    "Deepika_Love_Bot",
+    bot_token = "6144406425:AAGpo7qViUrsJsChanO0105XTO5wmu_YodM",
     api_id = 17038143,
     api_hash = "c1705f4cf711329ea025772dfd7057e0"
 )
